@@ -11,3 +11,4 @@ Clone the project and install required dependencies.You will see bot_token and a
 
 I used json file to keep track of 20 messages but you can use any database for more professionalism.
 
+TO run project write nodemon app.js to you terminal
